@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gazprom.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fd07be1b0c3020eef1505c80e843f567a9eed7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gazprom.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gazprom.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
